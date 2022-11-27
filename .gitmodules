@@ -1,3 +1,6 @@
 [submodule "sites/projecta"]
 	path = sites/projecta
 	url = https://github.com/niktek/projecta
+[submodule "ext/skeleton"]
+	path = ext/skeleton
+	url = https://github.com/niktek/skeleton/
