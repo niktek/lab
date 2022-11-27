@@ -1,6 +1,3 @@
-[submodule "ext/skeleton"]
-	path = ext/skeleton
-	url = https://github.com/niktek/skeleton
 [submodule "sites/projecta"]
 	path = sites/projecta
 	url = https://github.com/niktek/projecta
