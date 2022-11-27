@@ -1,0 +1,6 @@
+[submodule "packages/skeleton"]
+	path = packages/skeleton
+	url = https://github.com/niktek/skeleton
+[submodule "sites/projecta"]
+	path = sites/projecta
+	url = https://github.com/niktek/projecta
