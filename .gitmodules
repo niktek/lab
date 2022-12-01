@@ -1,9 +1,6 @@
-[submodule "sites/projecta"]
-	path = sites/projecta
-	url = https://github.com/niktek/projecta
 [submodule "ext/skeleton"]
 	path = ext/skeleton
 	url = https://github.com/niktek/skeleton/
-[submodule "sites/skeletonlabs.co"]
-	path = sites/skeletonlabs.co
-	url = https://github.com/skeletonlabs/skeletonlabs.co
+[submodule "sites/mediaforge"]
+	path = sites/mediaforge
+	url = https://github.com/niktek/mediaforge
